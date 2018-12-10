@@ -1,3 +1,8 @@
+
+# MOVED TO BOUTPROJECT
+
+This repo has been archived because development has been moved to the fork within boutproject [here](https://github.com/boutproject/xBOUT).
+
 # xBOUT
 
 xBOUT provides an interface for collecting the output data from a
@@ -5,11 +10,6 @@ xBOUT provides an interface for collecting the output data from a
 [xarray](http://xarray.pydata.org/en/stable/index.html)
 dataset in an efficient and scalable way, as well as accessor methods
 for common BOUT++ analysis and plotting tasks.
-
-Currently only in alpha (until 1.0 released) so please report any bugs,
-and feel free to raise issues asking questions or making suggestions.
-
-
 
 ### Loading your data
 
